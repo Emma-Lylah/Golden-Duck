@@ -39,3 +39,20 @@ header h1{
     color: #fff;
     margin:20px;
 }
+section{
+    margin:0px 23.3%;
+    background-color: beige;
+}
+section img{
+    width: 100%;
+}
+section p{
+    padding: 40px;
+    line-height: 20px;
+}
+footer{
+    margin:0px 20%;
+    background-color:beige;
+    text-align:center;
+    padding: 20px;
+}
