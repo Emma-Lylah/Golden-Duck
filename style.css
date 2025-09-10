@@ -54,9 +54,19 @@ section p{
 section h4{
     padding:0px 40px;
 }
+table{
+    width:70%;
+    border:1px solid #ccc;
+}
+tr:hover{
+    background-color:#eaf596;
+    color:#fe7c18;
+    font-size:20px;
+}
 footer{
     margin:0px 20%;
-    background-color:beige;
+    background-color:#79203e;
     text-align:center;
     padding: 20px;
+    color:#fff;
 }
